@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+    background-color: #F5F5F5;
+}
+
+h1 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 1200;
+}
+
+p {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 100;
+}
+
+#students-container {
+    background-color: white;
+    margin: auto;
+    width: 40%;
+}
+
+.hidden {
+    display: none;
+}
